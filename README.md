@@ -1,2 +1,3 @@
 # git-exercise
-git practice for class -branch and update README - added dev branch and push changes.. blah...
+git practice for class -branch and update README
+Added dev branch
